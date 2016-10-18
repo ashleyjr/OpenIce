@@ -1,4 +1,4 @@
-update=Sat 08 Oct 2016 20:05:17 BST
+update=Tue 18 Oct 2016 20:50:27 BST
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,4 @@ LibName29=contrib
 LibName30=valves
 LibName31=libraries/ICE40HX1K-TQ144
 LibName32=libraries/LT3030EFE
+LibName33=libraries/FT2232HL

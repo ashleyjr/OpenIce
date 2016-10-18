@@ -31,12 +31,13 @@ LIBS:contrib
 LIBS:valves
 LIBS:ICE40HX1K-TQ144
 LIBS:LT3030EFE
+LIBS:FT2232HL
 LIBS:OpenIce-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 2
+Sheet 2 3
 Title ""
 Date ""
 Rev ""
