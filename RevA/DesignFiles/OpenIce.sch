@@ -52,6 +52,8 @@ S 6750 1650 1450 600
 U 57F1186F
 F0 "Power" 60
 F1 "Power.sch" 60
+F2 "DM" B R 8200 1700 60 
+F3 "DP" B R 8200 1800 60 
 $EndSheet
 $Comp
 L ICE40HX1K-TQ144 U?
@@ -109,9 +111,15 @@ F 3 "" H 7050 2950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Sheet
-S 9050 1800 1250 500 
+S 8550 1650 1250 500 
 U 58067FF1
 F0 "Programming" 60
 F1 "Programming.sch" 60
+F2 "DM" B L 8550 1700 60 
+F3 "DP" B L 8550 1800 60 
 $EndSheet
+Wire Wire Line
+	8550 1800 8200 1800
+Wire Wire Line
+	8550 1700 8200 1700
 $EndSCHEMATC

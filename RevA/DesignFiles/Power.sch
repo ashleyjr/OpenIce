@@ -584,4 +584,12 @@ Wire Notes Line
 	11050 650  6950 650 
 Text Label 6950 600  0    60   ~ 0
 FPGA-Power
+Text HLabel 950  1100 0    60   BiDi ~ 0
+DM
+Text HLabel 950  1200 0    60   BiDi ~ 0
+DP
+Wire Wire Line
+	1050 1200 950  1200
+Wire Wire Line
+	950  1100 1050 1100
 $EndSCHEMATC
